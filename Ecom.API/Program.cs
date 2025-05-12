@@ -1,4 +1,4 @@
-using Ecom.infrastructure
+using Ecom.infrastructure;
 
 
 namespace Ecom.API
